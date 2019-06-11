@@ -1,8 +1,6 @@
 var mongoose = require("mongoose");
 var Schema = mongoose.Schema;
 
-mongoose.connect('mongodb://localhost/bookstore');
-
 var genreSchema = new Schema({
     name :{
         type : String,
