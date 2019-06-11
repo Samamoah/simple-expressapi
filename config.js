@@ -1,4 +1,4 @@
 
 module.exports = {
-    SECRET_KEY : 'secretkey'
+    SECRET_KEY : process.env.SECRET_KEY || 'secretkey'
 };
