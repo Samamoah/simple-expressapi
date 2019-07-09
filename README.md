@@ -7,7 +7,7 @@ Simple CRUD and authentication api
 * Mongodb
 * Mongoose
 
-```js
-npm install
-npm start
-```
+> ```js
+> npm install
+> npm start
+> ```
