@@ -6,6 +6,7 @@ Simple CRUD and authentication api
 * Express
 * Mongodb
 * Mongoose
+* JsonWebToken
 
 > ```js
 > npm install
